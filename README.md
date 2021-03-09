@@ -25,3 +25,16 @@
         If we want to line up on the left, instead of writing :----:, we have to write ---, and if instead of we want to line up on the
         left we want to line up to the right we have to write ---:
 
+# Examples of left-and-right-centered tables
+
+        Left-centered
+        
+| 1 place | 2 place | 3 place |
+| :---    | :---    | :---    |
+| City    | Years   | Lobby   |
+
+        Right-centered
+        
+| 1 place | 2 place | 3 place |
+| ---:    |   ---:  |   ---:  |
+| City    | Years   | Lobby   |
