@@ -1,6 +1,6 @@
 # How to make a table in Markdown
 
-Example of a table where things are centered
+# Example of a table where things are centered
 
 # What others see
 
