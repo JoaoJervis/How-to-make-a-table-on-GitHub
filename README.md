@@ -22,5 +22,6 @@ Example of a table where things are centered
                   
         The | have to be always aligned if not the table gets badly made
         
-        If we want to line up on the left, instead of writing :----:, we have to write ---, and if instead of we want to line up on the left we want to line up to the right we have to write ---:
+        If we want to line up on the left, instead of writing :----:, we have to write ---, and if instead of we want to line up on the
+        left we want to line up to the right we have to write ---:
 
