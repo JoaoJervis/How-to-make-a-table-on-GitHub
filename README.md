@@ -22,7 +22,7 @@
                   
         The | have to be always aligned if not the table gets badly made
         
-        If we want to line up on the left, instead of writing :----:, we have to write ---, and if instead of we want to line up on the
+        If we want to line up on the left, instead of writing :----:, we have to write :---, and if instead of we want to line up on the
         left we want to line up to the right we have to write ---:
 
 # Examples of left-and-right-centered tables
