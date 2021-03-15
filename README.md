@@ -1,4 +1,4 @@
-# How to make a table in Markdown
+# How to make a table on GitHub
 
 # Example of a table where things are centered
 
